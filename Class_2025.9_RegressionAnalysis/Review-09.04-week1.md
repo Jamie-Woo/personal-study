@@ -20,7 +20,7 @@ $$
 
 ## `02` Important Distributions
 #### `02-1` Chi-squared distribution
-`concept` : if a random variable Z has the standard normal distribution, then Z^2 has the chi-squared distribution with one degree of freedom. 
+If a random variable Z has the standard normal distribution, then Z^2 has the chi-squared distribution with one degree of freedom. 
 
 <p align="center">
 <img src="../img/chi-squared_1.png" alt="설명" width="400">
@@ -33,7 +33,8 @@ Z_1^2 + Z_2^2 + ... + Z_k^2
 $$
 
 has a chi-squared distribution with k degrees of freedom.
-<br>Thus, degrees of freedom = 'number of independent squared standard normal random variables'
+
+Thus, degrees of freedom = 'number of independent squared standard normal random variables'
 
 The probability density function of chi-squared distribution with k degrees of freedom:
 
@@ -45,17 +46,20 @@ $$
 mean of chi-squared distribution = k
 variance of chi-squared distribution = 2k
 
+<p align="center">
+<img src="../img/chi-squared_2.png" alt="설명" width="400">
+</p>
 
-`Characteristics`
-- 표본분산의 분포를 추정함
-- 검정에 활용됨
-$$
-X \sim \chi^2_p
-$$
+Hard right-skewness when having small degrees of freedom. when degrees of freedom increases, the distribution becomes more symmetric.
+In 3 df, mean = 3, variance = 6
+In 12 df, mean = 12, variance, = 24
 
-$$
-X = \sum_{j=1}^p Z_j^2, \quad Z_1, \dots, Z_p \sim N(0,1)
-$$
+An Hypothesis test with chi-squared distribution.
+Case study : 수학과의 시험 점수의 표준편차는 8.6이다. 교수는 이 값이 더 작다고 생각한다. 그는 20개의 시험 점수를 샘플링하여 표준편차는 6.9임을 발견한다. 이 표본들이 충분한 증거를 제공하는지, true 표준편차가 8.6보다 작다는 것에 대해? 이때 유의수준(significance level)은 0.05로 설정한다.
+
+가설에 따른 분산 $ \theta_0^2 $ = 8.6^2
+표본 분산 $ S^2 $ = 6.9^2
+
 
 
 
