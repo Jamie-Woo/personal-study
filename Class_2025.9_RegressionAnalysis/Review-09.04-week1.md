@@ -67,9 +67,11 @@ $$
 $$
 
 $$
+\begin{aligned}
 \text{null hypothesis} H_0 : \theta^2 = 8.6^2 \\
 \text{alternative hypothsis} H_a : \theta^2 < 8.6^2 \\
 \text{it's a left-tailed test}
+\end{aligned}
 $$
 
 
