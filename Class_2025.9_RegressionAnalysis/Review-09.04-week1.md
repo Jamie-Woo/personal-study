@@ -81,7 +81,7 @@ chi-squred distribution에서 alpha value에 해당하는 영역(Regection Regio
 <br>critical value를 계산해야 함 (아래 표 참고). 
 
 $$
-\text{critical chi-squred value } X_19^2 = 10.117
+\text{critical chi-squred value } X_(19)^2 = 10.117
 $$
 
 <p align="center">
