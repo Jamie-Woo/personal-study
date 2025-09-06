@@ -1,26 +1,27 @@
 ### Random Variable
-$$
+$
 X : \Omega \to \mathbb{R} \quad \text{A real valued function}
-$$
+$
 
-즉, X는 표본공간 Omega의 원소(사건)을 입력으로 받아, 실수값(R)을 출력하는 함수이다.
+즉, X는 표본공간 Omega의 원소(사건)을 입력으로 받아, 
+실수값(R)을 출력하는 함수이다.
 
-$$
+$
 X \sim \mathbb{P} \quad \text{: $X$ has distribution $\mathbb{P}$}
-$$
+$
 
-$$
+$
 \mathbb{P}(X \in A) = \mathbb{P}(\{\omega \in \Omega : X(\omega) \in A\})
-$$
+$
 
 ---
 
 ### Important Distributions
 #### `1` Chi-squared distribution
 `concept` : if a random variable Z has the standard normal distribution, then Z^2 has the chi-squared distribution with one degree of freedom. <br> if Z1, Z2, ..., Zk are independent standard normal random variables, then 
-$
+$$
 Z_1^2 + Z_2^2 + ... + Z_j^2
-$
+$$
 has a chi-squared distribution with k degrees of freedom.
 
 `Characteristics`
