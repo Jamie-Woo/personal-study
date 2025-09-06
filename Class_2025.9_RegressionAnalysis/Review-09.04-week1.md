@@ -57,8 +57,8 @@ Hard right-skewness when having small degrees of freedom. when degrees of freedo
 **An Hypothesis test with chi-squared distribution.**
 <br>Case study : 수학과의 시험 점수의 표준편차는 8.6이다. 교수는 이 값이 더 작다고 생각한다. 그는 20개의 시험 점수를 샘플링하여 표준편차는 6.9임을 발견한다. 이 표본들이 충분한 증거를 제공하는지, true 표준편차가 8.6보다 작다는 것에 대해? 이때 유의수준(significance level)은 0.05로 설정한다.
 
-가설에 따른 분산 $ \theta_0^2 $ = 8.6^2
-<br>표본 분산 $ S^2 $ = 6.9^2
+가설에 따른 분산 $ \theta_0^2 = 8.6^2 $
+<br>표본 분산 $ S^2 = 6.9^2 $
 
 
 
