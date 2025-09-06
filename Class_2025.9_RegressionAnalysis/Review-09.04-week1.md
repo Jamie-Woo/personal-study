@@ -74,6 +74,20 @@ $$
 \end{aligned}
 $$
 
+chi-squred distribution에서 alpha value에 해당하는 영역(Regection Region)은 0.05, 
+<br>critical value의 오른쪽에 해당하는 나머지 영역은 0.95
+
+따라서 'df=19, right area value = 0.95'인 경우의 값인
+<br>critical value를 계산해야 함 (아래 표 참고). 
+
+$$
+\text{critical value }$X$_19^2 = 10.117
+$$
+
+<p align="center">
+<img src="../img/chi-squared_3.png" alt="설명" width="400">
+</p>
+
 
 
 
