@@ -1,4 +1,4 @@
-### Random Variable
+## `01` Random Variable
 $$
 X : \Omega \to \mathbb{R} \quad \text{A real valued function}
 $$
@@ -16,8 +16,8 @@ $$
 
 ---
 
-### Important Distributions
-#### `1` Chi-squared distribution
+## `02` Important Distributions
+#### `02-1` Chi-squared distribution
 `concept` : if a random variable Z has the standard normal distribution, then Z^2 has the chi-squared distribution with one degree of freedom. <br> if Z1, Z2, ..., Zk are independent standard normal random variables, then 
 
 $$
@@ -40,6 +40,6 @@ $$
 
 
 
-#### `2` T distribution
-#### `3` F distribution
+#### `02-2` T distribution
+#### `02-3` F distribution
 
