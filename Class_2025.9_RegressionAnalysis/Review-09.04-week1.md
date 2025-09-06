@@ -61,7 +61,15 @@ $$
 \begin{aligned}
 \text{가설에 따른 분산 } \theta_0^2 = 8.6^2 \\
 \text{표본 분산 } S^2 = 6.9^2
+\text{표본 크기 n = 20 }
+\text{자유도 df = n-1 = 19}
 \end{aligned}
+$$
+
+$$
+\text{null hypothesis} H_0 : \theta^2 = 8.6^2 \\
+\text{alternative hypothsis} H_a : \theta^2 < 8.6^2 \\
+\text{it's a left-tailed test}
 $$
 
 
@@ -71,6 +79,6 @@ $$
 #### `02-2` T distribution
 #### `02-3` F distribution
 
-copyright
+Reference
 https://www.youtube.com/watch?v=hcDb12fsbBU
 https://www.youtube.com/watch?v=O6a76Dnn104
