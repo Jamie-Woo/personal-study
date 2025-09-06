@@ -1,6 +1,10 @@
 ### Random Variable
 $$
-X : \Omega \to \mathbb{R} \quad \text{A real valued function}  # $X$는 $\Omega$에서 $\mathbb{R}$로 가는 함수
+X : \Omega \to \mathbb{R} \quad \text{A real valued function}
+$$
+
+$$
+$X$는 $\Omega$에서 $\mathbb{R}$로 가는 함수
 $$
 
 $$
