@@ -108,6 +108,10 @@ $$
 \end{aligned}
 $$
 
+$$
+\text{Z-score:a single value $x$ in a sample } z = \frac{x - \mu}{\sigma}
+$$
+
 #### `02-3` F distribution
 
 #### Reference
