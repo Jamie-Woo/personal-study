@@ -102,7 +102,11 @@ $$
 #### `02-2` T distribution
 
 $$
-\text{Z-statistics vs T-statistics } z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}}  vs  t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
+\begin{aligned}
+\text{Z-statistics vs T-statistics: } \\
+z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
+t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
+\end{aligned}
 $$
 
 #### `02-3` F distribution
