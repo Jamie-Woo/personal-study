@@ -81,7 +81,7 @@ chi-squred distribution에서 alpha value에 해당하는 영역(Regection Regio
 <br>critical value를 계산해야 함 (아래 표 참고). 
 
 $$
-\text{critical chi-squred value }$X$_19^2 = 10.117
+\text{critical chi-squred value } X_19^2 = 10.117
 $$
 
 <p align="center">
@@ -89,7 +89,7 @@ $$
 </p>
 
 $$
-\text{calculated chi-squred value of samples } &$X$_c^2 = (n-1)S^2 / \theta^2 = 12.23
+\text{calculated chi-squred value of samples } &X_c^2 = (n-1)S^2 / \theta^2 = 12.23
 &10.117 < 12.23
 &will not reject the hypothesis (not enough evidence to reject the null hypothsis)
 $$
