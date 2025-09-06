@@ -1,18 +1,18 @@
 ### Random Variable
-$
+$$
 X : \Omega \to \mathbb{R} \quad \text{A real valued function}
-$
+$$
 
 즉, X는 표본공간 Omega의 원소(사건)을 입력으로 받아, 
 실수값(R)을 출력하는 함수이다.
 
-$
+$$
 X \sim \mathbb{P} \quad \text{: $X$ has distribution $\mathbb{P}$}
-$
+$$
 
-$
+$$
 \mathbb{P}(X \in A) = \mathbb{P}(\{\omega \in \Omega : X(\omega) \in A\})
-$
+$$
 
 ---
 
