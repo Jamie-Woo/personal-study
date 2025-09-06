@@ -27,6 +27,18 @@ Z_1^2 + Z_2^2 + ... + Z_k^2
 $$
 
 has a chi-squared distribution with k degrees of freedom.
+Thus, degrees of freedom = 'number of independent squared standard normal random variables'
+
+The probability density function of chi-squared distribution with k degrees of freedom:
+
+$$
+f(x) = \frac{x^{k/2 - 1} e^{-x/2}}{2^{k/2} \, \Gamma(k/2)} 
+\quad \text{for } x \geq 0
+$$
+
+mean of chi-squared distribution = k
+variance of chi-squared distribution = 2k
+
 
 `Characteristics`
 - 표본분산의 분포를 추정함
@@ -38,7 +50,7 @@ $$
 $$
 X = \sum_{j=1}^p Z_j^2, \quad Z_1, \dots, Z_p \sim N(0,1)
 $$
-여기서, p는 degree of freedom이라고 하며, 독립된 표준정규변수의 개수
+
 
 
 
