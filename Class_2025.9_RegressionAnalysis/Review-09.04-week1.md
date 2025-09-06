@@ -82,5 +82,5 @@ $$
 #### `02-3` F distribution
 
 Reference
-https://www.youtube.com/watch?v=hcDb12fsbBU
-https://www.youtube.com/watch?v=O6a76Dnn104
+<br>https://www.youtube.com/watch?v=hcDb12fsbBU
+<br>https://www.youtube.com/watch?v=O6a76Dnn104
