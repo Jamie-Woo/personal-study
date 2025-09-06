@@ -33,7 +33,7 @@ Z_1^2 + Z_2^2 + ... + Z_k^2
 $$
 
 has a chi-squared distribution with k degrees of freedom.
-Thus, degrees of freedom = 'number of independent squared standard normal random variables'
+<br>Thus, degrees of freedom = 'number of independent squared standard normal random variables'
 
 The probability density function of chi-squared distribution with k degrees of freedom:
 
