@@ -102,14 +102,18 @@ $$
 #### `02-2` T distribution
 
 $$
+\text{Z-score : 1 value $x$ in a sample } z = \frac{x - \mu}{\sigma}
+$$
+
+$$
+\text{Z-statistic : 1 sample in the population } z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}}
+$$
+
+$$
 \begin{aligned}
 \text{Z-statistics vs T-statistics: } &z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
 &t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
 \end{aligned}
-$$
-
-$$
-\text{Z-score:a single value $x$ in a sample } z = \frac{x - \mu}{\sigma}
 $$
 
 #### `02-3` F distribution
