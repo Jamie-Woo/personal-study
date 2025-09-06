@@ -89,9 +89,11 @@ $$
 </p>
 
 $$
-\text{calculated chi-squred value of samples } &X_c^2 = (n-1)S^2 / \theta^2 = 12.23
-&10.117 < 12.23
+\begin{aligned}
+\text{calculated chi-squred value of samples } &X_c^2 = (n-1)S^2 / \theta^2 = 12.23 \\
+&10.117 < 12.23 \\
 &will not reject the hypothesis (not enough evidence to reject the null hypothsis)
+\end{aligned}
 $$
 
 
