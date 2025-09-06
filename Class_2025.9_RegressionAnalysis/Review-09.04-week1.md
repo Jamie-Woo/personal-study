@@ -100,9 +100,15 @@ $$
 <br>will not reject the hypothesis (not enough evidence to reject the null hypothsis)
 
 #### `02-2` T distribution
+Z-statistics vs T-statistics
+
+$$
+z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
+$$
+
 #### `02-3` F distribution
 
-Reference
+#### Reference
 <br>https://www.youtube.com/watch?v=hcDb12fsbBU
 <br>https://www.youtube.com/watch?v=O6a76Dnn104
-<br>https://www.youtube.com/watch?v=Uv6nGIgZMVw
+<br>https://www.youtube.com/watch?v=DEkPZv5ppHI&t=100s
