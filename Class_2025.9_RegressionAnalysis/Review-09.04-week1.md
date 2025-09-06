@@ -103,9 +103,8 @@ $$
 
 $$
 \begin{aligned}
-\text{Z-statistics vs T-statistics: } \\
-z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
-t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
+\text{Z-statistics vs T-statistics: } &z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
+&t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
 \end{aligned}
 $$
 
