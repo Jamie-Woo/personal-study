@@ -21,8 +21,9 @@ $$
 ## `02` Important Distributions
 #### `02-1` Chi-squared distribution
 `concept` : if a random variable Z has the standard normal distribution, then Z^2 has the chi-squared distribution with one degree of freedom. 
-![설명](../img/chi-squared_1.png)
-<br> if Z1, Z2, ..., Zk are independent standard normal random variables, then 
+<img src="../img/chi-squared_1.png" alt="설명" width="400">
+
+if Z1, Z2, ..., Zk are independent standard normal random variables, then 
 
 $$
 Z_1^2 + Z_2^2 + ... + Z_k^2
