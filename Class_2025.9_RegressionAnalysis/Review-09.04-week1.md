@@ -14,6 +14,8 @@ $$
 \mathbb{P}(X \in A) = \mathbb{P}(\{\omega \in \Omega : X(\omega) \in A\})
 $$
 
+즉, 확률변수 X가 집합 A에 속할 확률은, 표본공간에서 X가 A에 들어가는 사건들의 확률과 같다.
+
 ---
 
 ## `02` Important Distributions
