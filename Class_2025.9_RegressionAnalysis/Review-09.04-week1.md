@@ -67,3 +67,6 @@ Hard right-skewness when having small degrees of freedom. when degrees of freedo
 #### `02-2` T distribution
 #### `02-3` F distribution
 
+copyright
+https://www.youtube.com/watch?v=hcDb12fsbBU
+https://www.youtube.com/watch?v=O6a76Dnn104
