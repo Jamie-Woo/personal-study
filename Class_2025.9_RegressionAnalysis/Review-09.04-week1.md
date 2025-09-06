@@ -59,17 +59,17 @@ Hard right-skewness when having small degrees of freedom. when degrees of freedo
 
 $$
 \begin{aligned}
-\text{가설에 따른 분산 } \theta_0^2 = 8.6^2 \\
-\text{표본 분산 } S^2 = 6.9^2 \\
-\text{표본 크기 n = 20 } \\
-\text{자유도 df = n-1 = 19}
+\text{가설에 따른 분산 } \theta_0^2 &= 8.6^2 \\
+\text{표본 분산 } S^2 &= 6.9^2 \\
+\text{표본 크기 n &= 20 } \\
+\text{자유도 df = n-1 &= 19}
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-\text{null hypothesis } H_0 : \theta^2 = 8.6^2 \\
-\text{alternative hypothsis } H_a : \theta^2 < 8.6^2 \\
+\text{null hypothesis } H_0 : \theta^2 &= 8.6^2 \\
+\text{alternative hypothsis } H_a : \theta^2 &< 8.6^2 \\
 \text{it's a left-tailed test}
 \end{aligned}
 $$
