@@ -89,14 +89,15 @@ $$
 </p>
 
 $$
-\begin{aligned}
-&\text{calculated chi-squred value of samples } X_c^2 = \frac{(n-1)S^2}{\theta^2} = 12.23 \\
-&10.117 < 12.23 \\
-&\text{will not reject the hypothesis (not enough evidence to reject the null hypothsis)}
-\end{aligned}
+\text{calculated chi-squred value of samples } X_c^2 = \frac{(n-1)S^2}{\theta^2} = 12.23 \\
 $$
 
+<p align="center">
+<img src="../img/chi-squared_4.png" alt="설명" width="400">
+</p>
 
+10.117 < 12.23
+<br>will not reject the hypothesis (not enough evidence to reject the null hypothsis)
 
 #### `02-2` T distribution
 #### `02-3` F distribution
