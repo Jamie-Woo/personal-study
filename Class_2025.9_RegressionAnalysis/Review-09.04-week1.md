@@ -117,8 +117,34 @@ $$
 $$
 
 #### `02-3` F distribution
+The F distribution is related to the chi-square distribution.
+
+$$
+\begin{aligned}
+\text{Suppose: } \\
+U_1 \text{ has a } \chi^2 \text{ distribution with } \nu_1 \text{ degrees of freedom.} \\
+U_2 \text{ has a } \chi^2 \text{ distribution with } \nu_2 \text{ degrees of freedom.} \\
+\text{U1 and U2 are independent random variables.} \\
+F = frac{frac{U_1}{\nu_1}}{frac{U_2}{\nu_2}}
+\end{aligned}
+$$
+
+Implication:
+The F distribution often arises when we are working with ratios of variances.
+
+<p align="center">
+<img src="../img/f-distribution_1.png" alt="설명" width="400">
+</p>
+
+$$
+E[F] = \frac{d_2}{d_2 - 2}, \quad \text{for } d_2 > 2
+$$
+
+when (df of numerator) = (df of denominator), median = 1
+
 
 #### Reference
 <br>https://www.youtube.com/watch?v=hcDb12fsbBU
 <br>https://www.youtube.com/watch?v=O6a76Dnn104
 <br>https://www.youtube.com/watch?v=DEkPZv5ppHI&t=100s
+<br>https://www.youtube.com/watch?v=G_RDxAZJ-ug
