@@ -108,7 +108,14 @@ $$
 $$
 \begin{aligned}
 \text{Z-statistic : 1 sample in the population } z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
-\text{however, we're not going to have the standard deviation of the entire population: \sigma}
+\text{however, we're not going to have the standard deviation of the entire population: } \sigma
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\text{So instead of the pop.SD, we replace that with the standard deviation of our smaller sample.}
+t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}}
 \end{aligned}
 $$
 
