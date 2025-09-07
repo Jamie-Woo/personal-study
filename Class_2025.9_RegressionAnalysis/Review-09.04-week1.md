@@ -109,7 +109,7 @@ $$
 \begin{aligned}
 \text{Z-statistic : 1 sample in the population } z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
 \text{however, we're not going to have the standard deviation of the entire population (it's impossible): } \sigma \\
-\text{So instead of the pop.SD, we replace that with the standard deviation of our smaller sample(to sample SD). } \\
+\text{So instead of the pop.SD, we replace that with the standard deviation of our smaller sample(to sample SD): } s \\
 \text{T-statistic : changing to the sample.SD } t = \frac{\bar{x} - \mu}{\frac{s}{\sqrt{n}}} \\
 \text{So, when the n gets bigger and bigger it becomes more confident the SD is correct and it will be closer to the normal distribution.}
 \end{aligned}
