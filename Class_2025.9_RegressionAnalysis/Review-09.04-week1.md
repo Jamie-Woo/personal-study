@@ -151,9 +151,10 @@ $$
 
 when (df of numerator) = (df of denominator), median = 1
 
+---
 
 #### Reference
-<br>https://www.youtube.com/watch?v=hcDb12fsbBU
+https://www.youtube.com/watch?v=hcDb12fsbBU
 <br>https://www.youtube.com/watch?v=O6a76Dnn104
 <br>https://www.youtube.com/watch?v=DEkPZv5ppHI&t=100s
 <br>https://www.youtube.com/watch?v=G_RDxAZJ-ug
