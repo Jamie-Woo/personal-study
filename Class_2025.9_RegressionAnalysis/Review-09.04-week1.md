@@ -1,9 +1,11 @@
-## Abstract
+## `Abstract`
 - [Random Variable](#01-random-variablee)
 - [Important Distributions](#02-important-distributions)
   - [chi-squared distribution](#02-1-chi-squared-distribution)
   - [T distribution](#02-2-t-distribution)
   - [F distribution](#02-3-f-distribution))
+
+---
 
 ## `01` Random Variable
 $$
