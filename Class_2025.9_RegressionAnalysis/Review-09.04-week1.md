@@ -106,7 +106,8 @@ $$
 $$
 
 $$
-\text{Z-statistic : 1 sample in the population } z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}}
+\text{Z-statistic : 1 sample in the population } z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}} \\
+\text{however, we're not going to have the standard deviation of the entire population: \sigma}
 $$
 
 $$
