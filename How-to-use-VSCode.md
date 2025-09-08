@@ -15,3 +15,4 @@ interpreter 하나를 선택한 후 vscode에서 terminal을 열어 직접 필�
 
 ### Reference
 https://www.youtube.com/watch?v=hKMODGfLt40
+https://whiteramen.tistory.com/39
