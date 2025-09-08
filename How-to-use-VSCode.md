@@ -9,6 +9,8 @@ You can use the global python version or you could rather create a virtual envir
 
 interpreter 하나를 선택한 후 vscode에서 terminal을 열어 직접 필요한 모듈을 설치
 
+.ipynb 파일을 열 때는 'Select Interpreter to start Jupyter server' 옵션 선택
+
 ---
 
 ### Reference
