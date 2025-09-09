@@ -56,7 +56,7 @@ $$
 $$
 \begin{aligned}
 &\min \sum_{i=1}^{n} \hat{e}_i^2 \text{   with respect to } \hat{\mu} \\
-&\frac{d \sum_{i=1}^n \hat{e}_i^2}{d \hat{\mu}} \text{   first order condition(FOC)}
+&\frac{d \sum_{i=1}^n \hat{e}_i^2}{d \hat{\mu}} = 0 \text{   first order condition(F.O.C)}
 \end{aligned}
 $$
 
@@ -65,7 +65,8 @@ $$
 
 $$
 \begin{aligned}
-&\sum_{i=1}^n \hat{e}_i^2 = \sum_{i=1}^n \left((y_i - \mu)^2\right) \\
+&\min\sum_{i=1}^n \hat{e}_i^2 = \min\sum_{i=1}^n \left((y_i - \hat{\mu})^2\right) \\
+&\frac{d \sum_{i=1}^n \hat{e}_i^2}{d \hat{\mu}} = 0 \text{   (F.O.C)} \\
 &\sum_{i=1}^n 2 ( y_i - \hat{\mu} )(-1) = 0  \\
 &\sum_{i=1}^n (y_i - \hat{\mu}) = 0 \\
 &\sum_{i=1}^n y_i - n \hat{\mu} = 0 \\
