@@ -1,11 +1,9 @@
 ## `Abstract`
-- [0. z-score and Standard Normal Distribution](#0-z-score-and-standard-normal-distribution)
-
-
+- [z-score and Standard Normal Distribution](#z-score-and-standard-normal-distribution)
 
 ---
 
-### `0.` Z-score and Standard Normal Distribution
+### Z-score and Standard Normal Distribution
 
 each number on the horizontal axis corresponds to a z-score.
 그래프에서 평균 0을 중심으로 하는 **가로축의 값**들을 z-score라고 함.
@@ -18,17 +16,7 @@ z-score table(= standard normal table)을 통해 해당 z-score의 차지 영역
 
 장점 : 어떤 평균과 분산을 가지는 정규분포이든 모두 표준정규분포로 바꿀 수 있다는 점
 
-### `1.` 
-
-$$
-\begin{aligned}
-\text{모평균: } &E(y_i) = \mu \\
-\text{모분산: } &\mathrm{Var}(y_i) = E\left((y_i - \mu)^2\right) = \sigma^2 \\
-&\text{= (퍼진 정도 제곱의 평균)} \\
-\text{표본평균: } &\hat{\mu} \\
-\text{표본분산: } &\hat{\sigma}
-\end{aligned}
-$$
+---
 
 ### `Reference`
 https://www.youtube.com/watch?v=2tuBREK_mgE
