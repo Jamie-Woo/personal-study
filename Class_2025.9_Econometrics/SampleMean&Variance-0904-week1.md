@@ -128,9 +128,18 @@ $$
 $$
 
 $$
-\begin{aligned}
-&= \mathbb{E}\!\left[(\hat{\mu}-\mathbb{E}[\hat{\mu}])^2\right]
-\end{aligned}
+Var(\hat{\mu}) = \frac{\sigma^2}{n}
 $$
 
+그러나 모분산(sigma^2)을 알지 못하므로 추정해야 함.
+
 ### `5.` 표본분산의 평균
+- sigma^2를 추정해보자
+
+$$
+\text{Want To Show (W.T.S) } E(\hat{\sigma^2}) = \sigma^2 \text{을 만족하는 } \sigma^2
+$$
+
+(1) mu가 알려져 있는 경우
+
+(2) mu가 알려져 있지 않은 경우
