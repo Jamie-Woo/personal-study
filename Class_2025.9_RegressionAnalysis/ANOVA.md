@@ -46,8 +46,15 @@ $$
 - Analysis of Variance (Single factorial without measurement repetition)
 - Is the extension of the t-test for independent samples to more than two groups
 
-Null hypothesis H0: There are no differences in the population between the means of the individual groups
-Alternative hypothesis H1: At least two group means differ from each other in the population
+**Null hypothesis H0**: There are no differences in the population between the means of the individual groups
+<br>**Alternative hypothesis H1**: At least two group means differ from each other in the population
+<br>
+<p align="center">
+<img src="../img/ANOVA_1.png" alt="설명" width="500">
+</p>
+
+On the left case, they have **Small** variance within the groups But having **Large** variance between group means.
+<br>On the right case, they have **Large** variance within the groups But having **Small** variance between group means.
 
 ---
 
