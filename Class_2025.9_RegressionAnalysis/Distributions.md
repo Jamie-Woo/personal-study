@@ -134,7 +134,7 @@ $$
 U_1 \text{ has a } \chi^2 \text{ distribution with } \nu_1 \text{ degrees of freedom.} \\
 U_2 \text{ has a } \chi^2 \text{ distribution with } \nu_2 \text{ degrees of freedom.} \\
 \text{U1 and U2 are independent random variables.} \\
-F = frac{frac{U_1}{\nu_1}}{frac{U_2}{\nu_2}}
+F = \frac{\frac{U_1}{\nu_1}}{\frac{U_2}{\nu_2}}
 \end{aligned}
 $$
 
