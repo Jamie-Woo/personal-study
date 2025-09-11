@@ -29,7 +29,66 @@ $$
 $$
 
 $$
-\text{Normal distribution with N(μ,σ): } \frac{1}{\sigma \sqrt{2\pi}}  e^{-\tfrac{1}{2} \left( \tfrac{x - \mu}{\sigma} \right)^{2}}
+\begin{aligned}
+&\text{Normal distribution with N(μ,σ): } \frac{1}{\sigma \sqrt{2\pi}}  e^{-\tfrac{1}{2} \left( \tfrac{x - \mu}{\sigma} \right)^{2}} \\
+&\text{→ 그래프 아래 면적이 1이 되도록 식이 설정됨}
+\end{aligned}
+$$
+
+---
+
+#### concrete example
+
+Consider rolling a fair die 100 times and adding the results.
+
+**Question** : Find a range of values such that you're 95% sure the sum will fall within this range.
+
+- **The 68-95-99.7 rule**
+  - In the standard normal distribution,
+  - 68% of values fall within 1 SDs of the mean
+  - 95% of values fall within 2 SDs of the mean
+  - 99.7% of values fall within 3 SDs of the mean
+
+$$
+\mu = \tfrac{1}{6}(1+2+3+4+5+6) = 3.5
+$$
+
+$$
+\mathrm{Var}(X) = \tfrac{1}{6}\left((1-3.5)^2 + \cdots + (6-3.5)^2\right) = 2.92
+$$
+
+$$
+\sigma = \sqrt{\mathrm{Var}(X)} = 1.71
+$$
+
+$$
+\frac{X_1 + \cdots + X_{100}}{100}
+$$
+
+$$
+\mu_s = 100 \cdot \mu = 350
+$$
+
+$$
+\sigma_s = \sqrt{100} \cdot \sigma = 17.1
+$$
+
+$$
+\mu_s - 2\sigma_s = 350 - 2 \cdot 17.1 \approx 316
+$$
+
+$$
+\mu_s + 2\sigma_s = 350 + 2 \cdot 17.1 \approx 384
+$$
+
+
+$$
+\begin{align}
+&\text{Three Assumptions: } \\
+1.& \text{All } X_i\text{'s are independent from each other.} \\
+2.& \text{Each } X_i \text{ is drawn from the same distribution.} \\
+3.& 0 < \mathrm{Var}(X_i) < \infty
+\end{align}
 $$
 
 
