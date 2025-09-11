@@ -17,7 +17,7 @@ $$
 $$
 \begin{aligned}
 \mathrm{Cor}(Y, X) 
-&= \frac{1}{n-1} \sum_{i=1}^n \left( \frac{y_i - \bar{y}}{s_y} \right)\left( \frac{x_i - \bar{x}}{s_x} \right) \\[6pt]
+&= \frac{1}{n-1} \sum_{i=1}^n \left( \frac{y_i - \bar{y}}{s_y} \right)\left( \frac{x_i - \bar{x}}{s_x} \right) \\
 &= \frac{\sum (y_i - \bar{y})(x_i - \bar{x})}{\sqrt{\sum (y_i - \bar{y})^2 \; \sum (x_i - \bar{x})^2}}
 \end{aligned}
 $$
@@ -25,6 +25,10 @@ $$
 - 그러나 두 변수 사이의 **선형적인** 상관관계밖에 포착하지 못함. 시각화의 중요성
 
 ## `3.` Regression
+
+$$
+\mathrm{Corr}(x,y) = \frac{\mathrm{Cov}(x,y)}{\mathrm{SD}(x)\cdot\mathrm{SD}(y)} \text{임을 이용하면}
+$$
 
 $$
 \hat{\beta}_{1, OLS} 
