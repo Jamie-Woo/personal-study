@@ -37,7 +37,7 @@ $$
 
 ---
 
-#### concrete example
+### concrete example
 
 Consider rolling a fair die 100 times and adding the results.
 
