@@ -4,7 +4,7 @@
 - Law of Large Numbers : an average tends to come closer to its expected value the more samples we have
 
 - What is a good way to get an unbiased representative group of samples?
-- <br> We can employ randomness.
+- We can employ randomness.
 
 ---
 
