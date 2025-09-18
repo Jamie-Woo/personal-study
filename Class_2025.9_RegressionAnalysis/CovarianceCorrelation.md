@@ -43,3 +43,10 @@ $$
 
 - **B1 기울기**를 직관적으로 해석하면,
 - x와 y가 얼마나 퍼져 있는가에 대한 비율과 correlation의 곱으로 이루어진 값이라는 사실을 알 수 있다.
+
+$$
+\hat{\beta}_1 = \frac{\sum (y_i - \bar{y})(x_i - \bar{x})}{\sum (x_i - \bar{x})^2}
+\quad \text{and} \quad
+\hat{\beta}_0 = \bar{y} - \hat{\beta}_1 \bar{x}.
+$$
+
