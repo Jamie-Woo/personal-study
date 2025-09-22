@@ -6,7 +6,9 @@
 
 ## ROC (Receiver Operator Characteristic)
 
-img
+<p align="center">
+<img src="../img/AUC_1.png" alt="설명" width="200">
+</p>
 
 - Y : True Positive Rate : Sensitivity
 - X : False Positive Rate : 1 - Specificity
@@ -14,7 +16,9 @@ img
 
 ## AUC (Area Under the Curve)
 
-img2
+<p align="center">
+<img src="../img/AUC_2.png" alt="설명" width="200">
+</p>
 
 - AUC는 서로 다른 ROC를 비교하는데 유용함
 - 예로 Red ROC curve(Logistic Regression)가 Blue ROC curve(Random Forest) 보다 좋은 모델링을 했다고 할 수 있음
