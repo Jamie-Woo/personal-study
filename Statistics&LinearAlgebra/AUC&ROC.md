@@ -2,12 +2,12 @@
 - we can draw a confusion matrix then we can calculate the Sensitivity and Specificity
   - **Sensitivity** 민감도 : TP / TP + FN
   - **Specificity** 특이도 : TN / TN + FP
-- 여기서 threshold를 바꿀 때마다 confusion matrix가 생성되는데 대신 ROC를 활용하면 요약 가능 
+- 여기서 threshold를 바꿀 때마다 매번 confusion matrix가 생성되는데 대신 ROC 그래프를 활용하면 한 번에 요약 가능 
 
 ## ROC (Receiver Operator Characteristic)
 
 <p align="center">
-<img src="../img/AUC_1.png" alt="설명" width="200">
+<img src="../img/ROC_1.png" alt="설명" width="300">
 </p>
 
 - Y : True Positive Rate : Sensitivity
@@ -17,7 +17,7 @@
 ## AUC (Area Under the Curve)
 
 <p align="center">
-<img src="../img/AUC_2.png" alt="설명" width="200">
+<img src="../img/ROC_2.png" alt="설명" width="200">
 </p>
 
 - AUC는 서로 다른 ROC를 비교하는데 유용함
