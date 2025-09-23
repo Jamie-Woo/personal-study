@@ -35,7 +35,7 @@ $$
 ---
 
 <p align="center">
-<img src="../img/OLS_geo_3.png" alt="설명" width="200">
+<img src="../img/OLS_geo_3.png" alt="설명" width="700">
 </p>
 
 ---
