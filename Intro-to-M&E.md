@@ -1,4 +1,4 @@
-### Innovation Policy Learning from Korea : Introductory Seminar to M&E Review
+## Innovation Policy Learning from Korea : Introductory Seminar to M&E Review
 
 Agenda
 1. What is M&E and why is it important?
@@ -6,7 +6,9 @@ Agenda
 3. M&E of Innovation Policy in Korea
 4. Lessons and Takeaways for Emerging Economies
 
-#### `01` What is M&E and why is it important?
+---
+
+### `01` What is M&E and why is it important?
 - Core Elements of the M&E Journey
   - Problem Identification
   - Logical framework
@@ -22,7 +24,7 @@ Agenda
   - Make adjustments to allow you achieve desired objectives
   - Document what worked and what did not for future interventions to consider
 
-#### `02` Fundamentals and Practices in M&E of Innovation Policy
+### `02` Fundamentals and Practices in M&E of Innovation Policy
 - **Challenges Associated with Technical Characteristics** of Innovation Policy
   - Diversity and complexity of innovation policy interventions
     - it can cross to many vertical sectors
@@ -38,6 +40,8 @@ Agenda
   - Coordination among ministries and agencies
   - Lack of organizational capacity
   - Limited resources for M&E Infrastructures
+    
+---
 
-Reference
+### Reference
 World Bank Group Open Learning Campus 'An Introduction - Monitoring and Evaluation (M&E) for Innovation Policy'
