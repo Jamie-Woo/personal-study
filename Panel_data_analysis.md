@@ -40,6 +40,25 @@ RE : corr(Xit, Ai) == 0
 
 ### 고정효과 모형
 
+고정효과 모형 가정
+1. corr(Xit, Uit) = 0
+2. corr(Ai, Uit) = 0
+3. corr(Xit, Ai) =/ 0
+
+고정효과 Ai 항을 제거하는 방법
+1. 1차 차분(first differencing)  
+<img width="426" height="145" alt="image" src="https://github.com/user-attachments/assets/c8b0518d-1ff8-4e91-99bc-d267f41b2171" />
+
+2. 고정효과 변환(fixed effect transformation / within transformation)
+i에 대한 시간평균값을 계산하여 식을 빼줌
+<img width="350" height="92" alt="image" src="https://github.com/user-attachments/assets/b87c275c-8853-4404-baa6-56df286f5dbc" />
+ 
+<img width="463" height="35" alt="image" src="https://github.com/user-attachments/assets/9064d927-c47c-47b6-8176-a312f15f18f5" />
+
+<img width="316" height="48" alt="image" src="https://github.com/user-attachments/assets/0c0e3f5b-b936-40f5-bfd0-f0033e4e8ba3" />  
+
+
+여기서 변환된 Y, X, U 모두를 기간평균차분(time demeaned) 자료라고 함
 
 ---
 Lecture Reference  
