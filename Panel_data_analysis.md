@@ -33,19 +33,19 @@ FE, RE  모형의 **공통**된 가정
 2. corr(Ai, Uit) = 0
 
 FE, RE  모형의 **차이**점
-FE : corr(Xit, Ai) =/ 0 (서로 상관관계가 있음을 허용한다면 선택)
-RE : corr(Xit, Ai) == 0
+- FE : corr(Xit, Ai) =/ 0 (서로 상관관계가 있음을 허용한다면 선택)
+- RE : corr(Xit, Ai) == 0
 
 따라서 RE는 모든 변수 간 상관관계가 없으므로 효율적으로 추정이 가장 잘 되는 모형임
 
 ### 고정효과 모형
 
-고정효과 모형 가정
+**고정효과 모형 가정**
 1. corr(Xit, Uit) = 0
 2. corr(Ai, Uit) = 0
 3. corr(Xit, Ai) =/ 0
 
-고정효과 Ai 항을 제거하는 방법
+**고정효과 Ai 항을 제거하는 방법**
 1. 1차 차분(first differencing)  
 <img width="426" height="145" alt="image" src="https://github.com/user-attachments/assets/c8b0518d-1ff8-4e91-99bc-d267f41b2171" />
 
@@ -59,7 +59,18 @@ i에 대한 시간평균값을 계산하여 식을 빼줌
 
 
 여기서 변환된 Y, X, U 모두를 기간평균차분(time demeaned) 자료라고 함
+이와 같은 과정을 통해 추정된 계수들은 고정효과 추정량(fixed effect estimator / within estimator)
 
+### 임의효과 모형
+
+**임의효과 모형 가정**
+1. corr(Xit, Uit) = 0
+2. corr(Ai, Uit) = 0
+3. corr(Xit, Ai) == 0
+   
+- 고정효과 모형보다 조금 더 엄격하게 독립적임
+- 개별적인 특성(Ai)가 또다른 오차항처럼 취급이 됨 (Ai + Uit = Vit / 개별특성 + 오차항 = 복합오차항)
+  
 ---
 Lecture Reference  
 김원중의 경제학 이야기 https://www.youtube.com/watch?v=W06lEpjj_P0
